@@ -5,11 +5,13 @@
      font-size: 15px;
      font-weight: bold;
     }
+    button {
+        background-color: palevioletred;
+    }
     .form-container {
-        padding: 10px;
+        padding-bottom: 10px;
         text-align: center;
     }
     .press {
-        font-family: Georgia, 'Times New Roman', Times, serif;
-        color:palevioletred;
+        padding-top: 10px;
     }
