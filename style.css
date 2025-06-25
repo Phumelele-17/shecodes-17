@@ -1,0 +1,15 @@
+ p {
+     text-align: center;
+     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+     font-size: 15px;
+     font-weight: bold;
+    }
+    .form-container {
+        padding: 10px;
+        text-align: center;
+    }
+    .press {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color: aquamarine;
+    }
